@@ -1,6 +1,2 @@
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+# This is the Header
+![Image of Yaktocat alt="Git-imgae"](https://octodex.github.com/images/yaktocat.png)
